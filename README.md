@@ -44,9 +44,8 @@
 
 ## 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=AR1SEEE&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AR1SEEE&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AR1SEEE&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AR1SEEE&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=AR1SEEE&theme=dark&hide_border=false)
 
 ---
 
